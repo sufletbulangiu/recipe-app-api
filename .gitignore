@@ -170,3 +170,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+recipe-app-api.code-workspace
