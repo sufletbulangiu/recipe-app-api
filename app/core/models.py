@@ -1,8 +1,8 @@
 """
 Database models.
 """
-from django.db import models
-from django.contrib.auth.models import (
+from django.db import models # type: ignore
+from django.contrib.auth.models import ( # type: ignore
     AbstractBaseUser,
     BaseUserManager,
     PermissionsMixin
